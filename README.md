@@ -1,4 +1,4 @@
-# 140_words_ASL_radar_dataset
+# CI4R-ASL140
 
 This repository contains the data used in the paper entitled "Effect of Kinematics and Fluency in Adversarial Synthetic Data Generation for ASL Recognition With RF Sensors".
 
